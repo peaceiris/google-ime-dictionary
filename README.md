@@ -152,8 +152,7 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 1. `ファイルを選択` からダウンロードしたファイルを選択
 1. `インポート` をクリック
 
-リポジトリをクローンしている方は `git pull origin iris-branch` で最新の辞書データをダウンロードできます。
-カレントのブランチが `iris-branch` になっていることを確認してから、Google日本語入力でインポートしてください。
+リポジトリをクローンしている方は `git pull origin master` で最新の辞書データをダウンロードできます。
 
 
 
