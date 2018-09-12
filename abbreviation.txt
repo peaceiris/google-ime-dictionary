@@ -1,0 +1,172 @@
+AES	Advanced Encryption Standard	名詞
+AI	Artificial Intelligence	名詞
+AMP	Accelerated Mobile Pages	名詞
+API	Application Programming Interface	名詞
+AR	Augmented Reality	名詞
+ASAP	as soon as possible	名詞
+ASCII	American Standard Code for Information Interchange	名詞
+AWL	Academic Word List	名詞
+AWS	Amazon Web Services	名詞
+BIOS	Basic Input/Output System	名詞
+BSD	Berkeley Software Distribution	名詞
+BT	Bluetooth	名詞
+BTW	By the way	名詞
+CC	Creative Commons	名詞
+CD	Continuous Delivery	名詞
+CD	Continuous Deployment	名詞
+CDN	Content Delivery Network	名詞
+CGI	Common Gateway Interface	名詞
+CGM	Consumer Generated Media	名詞
+CI	Continuous Integration	名詞
+CMOS	Complementary Metal Oxide Semiconductor	名詞
+CMS	Content Management System	名詞
+CNN	Convolutional Neural Network	名詞
+CPU	Central Processing Unit	名詞
+CSS	Cascading Style Sheets	名詞
+CSV	Comma-Separated Values	名詞
+CTR	Click Through Rate	名詞
+CUI	Character User Interface	名詞
+CVR	Conversion Rate	名詞
+DB	Database	名詞
+DB	Dropbox	名詞
+DBMS	Database management system	名詞
+DHCP	Dynamic Host Configuration Protocol	名詞
+DNS	Domain Name System	名詞
+DOM	Document Object Model	名詞
+DQN	Deep Q Network	名詞
+DRAM	Dynamic Random Access Memory	名詞
+DVD	Digital Versatile Disc	名詞
+EOF	End Of File	名詞
+ETF	Exchange-Traded Fund	名詞
+EUC	Extended Unix Code	名詞
+FAT	File Allocation Table	名詞
+FB	Facebook	名詞
+FD	Floppy Disk	名詞
+FIFO	First In First Out	名詞
+FPS	Frames Per Second	名詞
+FTP	File Transfer Protocol	名詞
+FYI	For your information	名詞
+GA	Genetic Algorithm	名詞
+GA	Google Analytics	名詞
+GAE	Google App Engine	名詞
+GAN	Generative Adversarial Network	名詞
+GCE	Google Compute Engine	名詞
+GCP	Google Cloud Platform	名詞
+GDPR	General Data Protection Regulation	名詞
+GH	GitHub	名詞
+GHP	GitHub Pages	名詞
+GL	GitLab	名詞
+GLP	GitLab Pages	名詞
+GNOME	GNU Network Object Model Environment	名詞
+GNU	GNU's Not UNIX	名詞
+GPL	General Public License	名詞
+GPU	Graphics Processing Unit	名詞
+GUI	Graphical User Interface	名詞
+HDD	Hard Disk Drive	名詞
+HDMI	High-Definition Multimedia Interface	名詞
+HTML	Hyper Text Markup Language	名詞
+HTTP	Hypertext Transfer Protocol	名詞
+HTTPS	Hypertext Transfer Protocol over Secure Socket Layer	名詞
+IBM	International Business Machines Corporation	名詞
+ID	Identification	名詞
+IDE	Integrated Development Environment	名詞
+IEEE	The Institute of Electrical and Electronics Engineers	名詞
+IMAP	Internet Message Access Protocol	名詞
+IME	Input Method Editor	名詞
+IMO	In my opinion	名詞
+IPO	Initial Public Offering	名詞
+ISBN	International Standard Book Number	名詞
+IT	Information Technology	名詞
+JDK	Java Development Kit	名詞
+JPEG	Joint Picture Expert Group	名詞
+JS	JavaScript	名詞
+JSON	JavaScript Object Notation	名詞
+LAN	Local Area Network	名詞
+LDAP	Lightweight Directory Access Protocol	名詞
+LSTM	Long Short Term Memory	名詞
+M&A	Mergers and Acquisitions	名詞
+MBA	MacBook Air	名詞
+MBP	MacBook Pro	名詞
+MD	Markdown	名詞
+MD	Material Design	名詞
+MFCC	Mel-Frequency Cepstrum Coefficients	名詞
+MIPS	Microprocessor without Interlocked Pipeline Stages	名詞
+ML	Machine Learning	名詞
+MS	Microsoft	名詞
+NAS	Network Attached Storage	名詞
+NAT	Network Address Translation	名詞
+NKF	Network Kanji Filter	名詞
+NLP	Natural Language Processing	名詞
+NPM	Node Package Manager	名詞
+NTFS	NT File System	名詞
+OCR	Optical Character Reader	名詞
+OCR	Optical Character Recognition	名詞
+OMG	Oh My God	名詞
+OS	Operating System	名詞
+OSS	Open Source Software	名詞
+PC	Personal Computer	名詞
+PC	Program Counter	名詞
+PCA	Principal Component Analysis	名詞
+PDF	Portable Document Format	名詞
+PGP	Pretty Good Privacy	名詞
+PNG	Portable Network Graphics	名詞
+POP	Post Office Protocol	名詞
+POSIX	Portable Operating System Interface for UNIX	名詞
+PR	Pull Request	名詞
+PS	PlayStation	名詞
+PS	PostScript	名詞
+PWA	Progressive Web Apps	名詞
+RAID	Redundant Arrays of Inexpensive Disks	名詞
+RAM	Random Access Memory	名詞
+RDB	Relational Database	名詞
+RDBMS	Relational database management system	名詞
+RNN	Recurrent Neural Network	名詞
+ROM	Read Only Memory	名詞
+ROR	Ruby on Rails	名詞
+RPI	Raspberry Pi	名詞
+SB	SoftBank	名詞
+SEO	Search Engine Optimization	名詞
+SMS	Short Message Service	名詞
+SMTP	Simple Mail Transfer Protocol	名詞
+SNS	Social Networking Service	名詞
+SPA	Single Page Application	名詞
+SQL	Structured Query Language	名詞
+SSD	Solid State Drive	名詞
+SSG	Static Site Generator	名詞
+SSH	Secure Shell	名詞
+SSL	Secure Sockets Layer	名詞
+SSR	Server Side Rendering	名詞
+SVG	Scalable Vector Graphics	名詞
+SVM	Support Vector Machine	名詞
+TBC	To Be Continued	名詞
+TBD	To Be Decided	名詞
+TBD	To Be Determined	名詞
+TCP	Transmission Control Protocol	名詞
+TLD	Top-Level Domain	名詞
+TOC	Table of Contents	名詞
+TTYL	Talk to you later	名詞
+TW	Twitter	名詞
+UDP	User Datagram Protocol	名詞
+UI	User Interface	名詞
+UPS	Uninterruptible Power Supply	名詞
+URI	Uniform Resource Identifier	名詞
+URL	Uniform Resource Locator	名詞
+VCS	Version Control System	名詞
+VM	Virtual Machine	名詞
+VPN	Virtual Private Network	名詞
+VR	Virtual Reality	名詞
+W3C	World Wide Web Consortium	名詞
+WAN	Wide Area Network	名詞
+WSGI	Web Server Gateway Interface	名詞
+WWW	World Wide Web	名詞
+d11n	Documentation	名詞
+g11n	Globalization	名詞
+k8s	Kubernetes	名詞
+l10n	Localization	名詞
+m17n	Multilingualization	名詞
+p13n	Personalization	名詞
+p45	Pneumonoultramicroscopicsilicovolcanoconiosis	名詞
+v12n	Virtualization	名詞
+ん11n	Normalization	名詞
+あ11y	Accessibility	名詞
+い18n	internationalization	名詞
