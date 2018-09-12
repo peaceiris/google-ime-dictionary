@@ -27,9 +27,6 @@
   - [day_month.txt](#day_monthtxt-1)
 - [Licence](#licence)
 - [References](#references)
-  - [peaceiris](#peaceiris)
-  - [EDICT](#edict)
-  - [Google日本語入力](#google%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -209,20 +206,14 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 
 ## References
 
-### peaceiris
-
-- [Github](https://github.com/peaceiris)
-- [Twitter](https://twitter.com/piris314)
-- [Google日本語入力で日本語を英語に変換するための辞書](https://www.p-iris.com/blog/english/google_ime_dictionary/)
-
-### EDICT
-
-- Japanese-English Electronic DICTionary
-- Original: [The EDICT Dictionary File]
-- cf. [kyontan/edict-for-google-ime]
-
-### Google日本語入力
-
+- peaceiris
+    - [Github](https://github.com/peaceiris)
+    - [Twitter](https://twitter.com/piris314)
+    - [Google日本語入力で日本語を英語に変換するための辞書](https://www.p-iris.com/blog/english/google_ime_dictionary/)
+- EDICT
+    - Japanese-English Electronic DICTionary
+    - Original: [The EDICT Dictionary File]
+    - cf. [kyontan/edict-for-google-ime]
 - [Google日本語入力]
 
 [Jump to TOC :small_red_triangle:]
