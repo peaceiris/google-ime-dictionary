@@ -138,8 +138,6 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dictionary Tool of Google Japanese Input.
 
-トリガー文字を含まない[edict-googleime_notrigger.txt]も用意しましたがオススメはしません｡
-
 ### アップデート
 
 1. 最新の辞書ファイルをダウンロード
@@ -241,7 +239,6 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 <!-- Internal References -->
 [edict-googleime_us.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/edict-googleime_us.txt
 [edict-googleime.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/edict-googleime.txt
-[edict-googleime_notrigger.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/edict-googleime_notrigger.txt
 [abbreviation.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/abbreviation.txt
 [day_month.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/day_month.txt
 [Jump to TOC :small_red_triangle:]: #table-of-contents
