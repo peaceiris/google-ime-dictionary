@@ -52,13 +52,13 @@
 
 ### edict-googleime.txt
 
-| 変換前 | 変換後 |
-|----|----|
-| @じしょ     | dictionary |
-| @こくさい   | international |
+| 変換前      | 変換後               |
+|-------------|----------------------|
+| @じしょ     | dictionary           |
+| @こくさい   | international        |
 | @こくさいか | internationalization |
-| @もくじ     | table of contents |
-| @ぶんごう   | literary master |
+| @もくじ     | table of contents    |
+| @ぶんごう   | literary master      |
 
 USキーボード向けに、変換トリガーが `@` ではなく `\` である辞書も用意しています。
 
@@ -66,14 +66,14 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 140以上の単語が収録されています。
 
-| 変換前 | 変換後 |
-|----|----|
-| TOC  | Table of Contents |
-| AWS  | Amazon Web Services |
-| GCP  | Google Cloud Platform |
-| GDPR | General Data Protection Regulation |
-| OSS  | Open Source Software |
-| CNN  | Convolutional Neural Netwok |
+| 変換前 | 変換後                             |
+|--------|------------------------------------|
+| TOC    | Table of Contents                  |
+| AWS    | Amazon Web Services                |
+| GCP    | Google Cloud Platform              |
+| GDPR   | General Data Protection Regulation |
+| OSS    | Open Source Software               |
+| CNN    | Convolutional Neural Netwok        |
 
 ### day_month.txt
 
@@ -201,8 +201,6 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 
 このライセンスは辞書ファイルにのみ適用されます。
 
-This license is applied only Dictionary Files.
-
 - 辞書ファイル (Dictionary Files)
     - edict-googleime.txt
     - edict-googleime_us.txt
@@ -222,6 +220,7 @@ This license is applied only Dictionary Files.
 
 ### EDICT
 
+- [kyontan/edict-for-google-ime]
 - Japanese-English Electronic DICTionary
 - Original: [The EDICT Dictionary File]
 
@@ -234,17 +233,15 @@ This license is applied only Dictionary Files.
 
 
 <!-- External References -->
-
 [Google日本語入力]: https://www.google.co.jp/ime/
 [The EDICT Dictionary File]: http://www.edrdg.org/jmdict/edict.html
 [kyontan/edict-for-google-ime]: https://github.com/kyontan/edict-for-google-ime
 [IME和英辞書 - EDICT for MS-IME 2]: http://www.nurs.or.jp/~nagadomi/edictime2/
 
 <!-- Internal References -->
-
-[edict-googleime_us.txt]: https://raw.githubusercontent.com/peaceiris/edict-for-google-ime/iris-branch/edict-googleime_us.txt
-[edict-googleime.txt]: https://raw.githubusercontent.com/peaceiris/edict-for-google-ime/iris-branch/edict-googleime.txt
-[edict-googleime_notrigger.txt]: https://raw.githubusercontent.com/peaceiris/edict-for-google-ime/iris-branch/edict-googleime_notrigger.txt
-[abbreviation.txt]: https://raw.githubusercontent.com/peaceiris/edict-for-google-ime/iris-branch/abbreviation.txt
-[day_month.txt]: https://raw.githubusercontent.com/peaceiris/edict-for-google-ime/iris-branch/day_month.txt
+[edict-googleime_us.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/edict-googleime_us.txt
+[edict-googleime.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/edict-googleime.txt
+[edict-googleime_notrigger.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/edict-googleime_notrigger.txt
+[abbreviation.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/abbreviation.txt
+[day_month.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/day_month.txt
 [Jump to TOC :small_red_triangle:]: #table-of-contents
