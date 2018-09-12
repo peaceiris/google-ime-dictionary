@@ -220,9 +220,9 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 
 ### EDICT
 
-- [kyontan/edict-for-google-ime]
 - Japanese-English Electronic DICTionary
 - Original: [The EDICT Dictionary File]
+- cf. [kyontan/edict-for-google-ime]
 
 ### Google日本語入力
 
@@ -239,9 +239,9 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 [IME和英辞書 - EDICT for MS-IME 2]: http://www.nurs.or.jp/~nagadomi/edictime2/
 
 <!-- Internal References -->
-[edict-googleime_us.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/edict-googleime_us.txt
-[edict-googleime.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/edict-googleime.txt
-[edict-googleime_notrigger.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/edict-googleime_notrigger.txt
-[abbreviation.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/abbreviation.txt
-[day_month.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/iris-branch/day_month.txt
+[edict-googleime_us.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/edict-googleime_us.txt
+[edict-googleime.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/edict-googleime.txt
+[edict-googleime_notrigger.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/edict-googleime_notrigger.txt
+[abbreviation.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/abbreviation.txt
+[day_month.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/day_month.txt
 [Jump to TOC :small_red_triangle:]: #table-of-contents
