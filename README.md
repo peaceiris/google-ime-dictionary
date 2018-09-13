@@ -1,6 +1,6 @@
 # Google日本語入力用の便利なユーザー辞書
 
-
+![sample gif](./images/sample.gif)
 
 ## Table of Contents
 
