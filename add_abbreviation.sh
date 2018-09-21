@@ -10,4 +10,4 @@ sort -u abbreviation.txt -o abbreviation.txt
 git diff
 
 git add abbreviation.txt
-git commit -m "Script: add ${abb}"
+git commit -m "Script: add: ${abb} (${expanded})"
