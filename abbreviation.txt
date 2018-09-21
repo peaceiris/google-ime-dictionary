@@ -42,6 +42,7 @@ ETF	Exchange-Traded Fund	名詞
 EUC	Extended Unix Code	名詞
 FAT	File Allocation Table	名詞
 FB	Facebook	名詞
+FB	Firebase	名詞
 FD	Floppy Disk	名詞
 FIFO	First In First Out	名詞
 FPS	Frames Per Second	名詞
