@@ -55,6 +55,7 @@ GCE	Google Compute Engine	名詞
 GCP	Google Cloud Platform	名詞
 GDPR	General Data Protection Regulation	名詞
 GH	GitHub	名詞
+GHE	GitHub Enterprise	名詞
 GHP	GitHub Pages	名詞
 GL	GitLab	名詞
 GLP	GitLab Pages	名詞
