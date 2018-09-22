@@ -1,8 +1,13 @@
-# Google日本語入力用の便利なユーザー辞書
+# Google日本語入力用のユーザー辞書(日英変換・略語展開)
 
 ![sample gif](./images/sample.gif)
 
+
+
 ## Table of Contents
+
+<details>
+<summary>Click me to expand</summary>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -29,6 +34,8 @@
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+</details>
 
 
 
