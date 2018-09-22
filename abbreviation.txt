@@ -87,6 +87,7 @@ JS	JavaScript	名詞
 JSON	JavaScript Object Notation	名詞
 LAN	Local Area Network	名詞
 LDAP	Lightweight Directory Access Protocol	名詞
+LED	Light Emitting Diode	名詞
 LSTM	Long Short Term Memory	名詞
 M&A	Mergers and Acquisitions	名詞
 MBA	MacBook Air	名詞
