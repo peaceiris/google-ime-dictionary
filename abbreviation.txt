@@ -16,6 +16,7 @@ CC	Creative Commons	名詞
 CD	Continuous Delivery	名詞
 CD	Continuous Deployment	名詞
 CDN	Content Delivery Network	名詞
+CEO	Chief Executive Officer	名詞
 CGI	Common Gateway Interface	名詞
 CGM	Consumer Generated Media	名詞
 CI	Continuous Integration	名詞
