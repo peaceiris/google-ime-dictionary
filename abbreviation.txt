@@ -38,6 +38,7 @@ CMS	Content Management System	名詞
 CNN	Convolutional Neural Network	名詞
 COO	Chief Operating Officer	名詞
 COO	Chief Operations Officer	名詞
+CPC	Cost Per Click	名詞
 CPU	Central Processing Unit	名詞
 CSS	Cascading Style Sheets	名詞
 CSV	Comma-Separated Values	名詞
