@@ -219,6 +219,7 @@ TDS	Tokyo Disney Sea	名詞
 TLD	Top-Level Domain	名詞
 TOC	Table of Contents	名詞
 TOPIX	Tokyo Stock Price Index	名詞
+TPP	Trans-Pacific Partnership	名詞
 TPS	Third Person Shooter	名詞
 TTYL	Talk to you later	名詞
 TW	Twitter	名詞
