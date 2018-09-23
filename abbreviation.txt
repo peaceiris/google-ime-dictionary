@@ -167,6 +167,7 @@ OCR	Optical Character Recognition	名詞
 ODA	Official Development Assistance	名詞
 OLED	Organic Light Emitting Diode	名詞
 OMG	Oh My God	名詞
+OPEC	Organization of the Petroleum Exporting Countries	名詞
 OS	Operating System	名詞
 OSS	Open Source Software	名詞
 PC	Personal Computer	名詞
