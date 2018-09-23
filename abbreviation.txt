@@ -154,6 +154,7 @@ NASA	The National Aeronautical and Space Administration	名詞
 NASDAQ	National Association of Securities Dealers Automated Quotations	名詞
 NAT	Network Address Translation	名詞
 NATO	The North Atlantic Treaty Organization	名詞
+NBA	National Basketball Association	名詞
 NKF	Network Kanji Filter	名詞
 NLP	Natural Language Processing	名詞
 NPM	Node Package Manager	名詞
