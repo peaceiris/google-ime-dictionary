@@ -7,6 +7,7 @@ API	Application Programming Interface	名詞
 AR	Augmented Reality	名詞
 ASAP	as soon as possible	名詞
 ASCII	American Standard Code for Information Interchange	名詞
+ASP	Application Service Provider	名詞
 ATM	Automated Teller Machine	名詞
 ATOK	Advanced Technology Of Kana-Kanji Transfer	名詞
 AWL	Academic Word List	名詞
