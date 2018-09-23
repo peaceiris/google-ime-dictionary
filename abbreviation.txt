@@ -239,6 +239,7 @@ VCS	Version Control System	名詞
 VM	Virtual Machine	名詞
 VOD	Video On Demand	名詞
 VPN	Virtual Private Network	名詞
+VPS	Virtual Private Server	名詞
 VR	Virtual Reality	名詞
 VSC	Visual Studio Code	名詞
 W3C	World Wide Web Consortium	名詞
