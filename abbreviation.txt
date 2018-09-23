@@ -105,6 +105,7 @@ HTTPS	Hypertext Transfer Protocol over Secure Socket Layer	名詞
 IBM	International Business Machines Corporation	名詞
 ICBM	Intercontinental Ballistic Missile	名詞
 ICT	Information and Communication Technology	名詞
+ICU	Intensive Care Unit	名詞
 ID	Identification	名詞
 IDE	Integrated Development Environment	名詞
 IEEE	The Institute of Electrical and Electronics Engineers	名詞
