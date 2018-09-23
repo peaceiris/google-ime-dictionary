@@ -112,6 +112,7 @@ IEEE	The Institute of Electrical and Electronics Engineers	名詞
 IIT	Indian Institutes of Technology	名詞
 IMAP	Internet Message Access Protocol	名詞
 IME	Input Method Editor	名詞
+IMF	The International Monetary Fund	名詞
 IMO	In my opinion	名詞
 IPO	Initial Public Offering	名詞
 ISBN	International Standard Book Number	名詞
