@@ -40,6 +40,7 @@ DB	Database	名詞
 DB	Dropbox	名詞
 DBMS	Database management system	名詞
 DHCP	Dynamic Host Configuration Protocol	名詞
+DIY	Do It Yourself	名詞
 DNS	Domain Name System	名詞
 DOM	Document Object Model	名詞
 DQN	Deep Q Network	名詞
