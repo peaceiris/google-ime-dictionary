@@ -225,6 +225,7 @@ UPS	Uninterruptible Power Supply	名詞
 URI	Uniform Resource Identifier	名詞
 URL	Uniform Resource Locator	名詞
 USA	United States of America	名詞
+USJ	Universal Studios Japan	名詞
 VCS	Version Control System	名詞
 VM	Virtual Machine	名詞
 VPN	Virtual Private Network	名詞
