@@ -223,6 +223,7 @@ TPP	Trans-Pacific Partnership	名詞
 TPS	Third Person Shooter	名詞
 TTYL	Talk to you later	名詞
 TW	Twitter	名詞
+UAE	United Arab Emirates	名詞
 UDP	User Datagram Protocol	名詞
 UI	User Interface	名詞
 UPS	Uninterruptible Power Supply	名詞
