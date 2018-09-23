@@ -116,6 +116,7 @@ IMF	The International Monetary Fund	名詞
 IMO	In my opinion	名詞
 IOC	The International Olympic Committee	名詞
 IPO	Initial Public Offering	名詞
+IQ	Intelligence Quotient	名詞
 ISBN	International Standard Book Number	名詞
 IT	Information Technology	名詞
 JCB	Japan Credit Bureau	名詞
