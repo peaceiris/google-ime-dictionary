@@ -136,6 +136,7 @@ LDAP	Lightweight Directory Access Protocol	名詞
 LED	Light Emitting Diode	名詞
 LNG	Liquefied Natural Gas	名詞
 LSTM	Long Short Term Memory	名詞
+LTE	Long Term Evolution	名詞
 M&A	Mergers and Acquisitions	名詞
 MBA	MacBook Air	名詞
 MBP	MacBook Pro	名詞
