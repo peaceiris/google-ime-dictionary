@@ -60,6 +60,7 @@ DQN	Deep Q Network	名詞
 DRAM	Dynamic Random Access Memory	名詞
 DVD	Digital Versatile Disc	名詞
 EOF	End Of File	名詞
+ETC	Electronic Toll Collection System	名詞
 ETF	Exchange-Traded Fund	名詞
 EUC	Extended Unix Code	名詞
 FAQ	Frequently Asked Questions	名詞
