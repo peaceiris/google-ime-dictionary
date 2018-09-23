@@ -103,6 +103,7 @@ HTML	Hyper Text Markup Language	名詞
 HTTP	Hypertext Transfer Protocol	名詞
 HTTPS	Hypertext Transfer Protocol over Secure Socket Layer	名詞
 IBM	International Business Machines Corporation	名詞
+ICBM	Intercontinental Ballistic Missile	名詞
 ID	Identification	名詞
 IDE	Integrated Development Environment	名詞
 IEEE	The Institute of Electrical and Electronics Engineers	名詞
