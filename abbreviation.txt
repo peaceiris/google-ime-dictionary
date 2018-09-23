@@ -32,6 +32,7 @@ CG	Computer Graphics	名詞
 CGI	Common Gateway Interface	名詞
 CGM	Consumer Generated Media	名詞
 CI	Continuous Integration	名詞
+CIA	Central Intelligence Agency	名詞
 CMOS	Complementary Metal Oxide Semiconductor	名詞
 CMS	Content Management System	名詞
 CNN	Convolutional Neural Network	名詞
