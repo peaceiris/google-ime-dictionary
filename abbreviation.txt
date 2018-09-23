@@ -184,6 +184,7 @@ PR	Pull Request	名詞
 PS	PlayStation	名詞
 PS	PostScript	名詞
 PWA	Progressive Web Apps	名詞
+QED	Quod Erat Demonstrandum	名詞
 RAID	Redundant Arrays of Inexpensive Disks	名詞
 RAM	Random Access Memory	名詞
 RDB	Relational Database	名詞
