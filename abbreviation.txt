@@ -67,6 +67,7 @@ FAQ	Frequently Asked Questions	名詞
 FAT	File Allocation Table	名詞
 FB	Facebook	名詞
 FB	Firebase	名詞
+FBI	Federal Bureau of Investigation	名詞
 FD	Floppy Disk	名詞
 FIFO	First In First Out	名詞
 FPS	First Person Shooter	名詞
