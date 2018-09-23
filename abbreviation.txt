@@ -18,6 +18,7 @@ BIOS	Basic Input/Output System	名詞
 BSD	Berkeley Software Distribution	名詞
 BT	Bluetooth	名詞
 BTW	By the way	名詞
+CAD	Computer Accisted Drafting	名詞
 CAD	Computer Accisted Drawing	名詞
 CAD	Computer Aided Design	名詞
 CC	Creative Commons	名詞
