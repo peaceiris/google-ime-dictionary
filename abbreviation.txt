@@ -89,6 +89,7 @@ GHP	GitHub Pages	名詞
 GIF	Graphics Interchange Format	名詞
 GL	GitLab	名詞
 GLP	GitLab Pages	名詞
+GNE	Gross National Expenditure	名詞
 GNOME	GNU Network Object Model Environment	名詞
 GNP	Gross National Product	名詞
 GNU	GNU's Not UNIX	名詞
