@@ -108,13 +108,13 @@ ICT	Information and Communication Technology	名詞
 ICU	Intensive Care Unit	名詞
 ID	Identification	名詞
 IDE	Integrated Development Environment	名詞
-IEEE	The Institute of Electrical and Electronics Engineers	名詞
+IEEE	Institute of Electrical and Electronics Engineers	名詞
 IIT	Indian Institutes of Technology	名詞
 IMAP	Internet Message Access Protocol	名詞
 IME	Input Method Editor	名詞
-IMF	The International Monetary Fund	名詞
+IMF	International Monetary Fund	名詞
 IMO	In my opinion	名詞
-IOC	The International Olympic Committee	名詞
+IOC	International Olympic Committee	名詞
 IPO	Initial Public Offering	名詞
 IQ	Intelligence Quotient	名詞
 ISBN	International Standard Book Number	名詞
@@ -150,10 +150,10 @@ ML	Machine Learning	名詞
 MRI	Magnetic Resonance Imaging	名詞
 MS	Microsoft	名詞
 NAS	Network Attached Storage	名詞
-NASA	The National Aeronautical and Space Administration	名詞
+NASA	National Aeronautical and Space Administration	名詞
 NASDAQ	National Association of Securities Dealers Automated Quotations	名詞
 NAT	Network Address Translation	名詞
-NATO	The North Atlantic Treaty Organization	名詞
+NATO	North Atlantic Treaty Organization	名詞
 NBA	National Basketball Association	名詞
 NKF	Network Kanji Filter	名詞
 NLP	Natural Language Processing	名詞
@@ -214,7 +214,7 @@ UI	User Interface	名詞
 UPS	Uninterruptible Power Supply	名詞
 URI	Uniform Resource Identifier	名詞
 URL	Uniform Resource Locator	名詞
-USA	The United States of America	名詞
+USA	United States of America	名詞
 VCS	Version Control System	名詞
 VM	Virtual Machine	名詞
 VPN	Virtual Private Network	名詞
