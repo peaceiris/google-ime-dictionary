@@ -151,6 +151,7 @@ MRI	Magnetic Resonance Imaging	名詞
 MS	Microsoft	名詞
 NAS	Network Attached Storage	名詞
 NASA	The National Aeronautical and Space Administration	名詞
+NASDAQ	National Association of Securities Dealers Automated Quotations	名詞
 NAT	Network Address Translation	名詞
 NKF	Network Kanji Filter	名詞
 NLP	Natural Language Processing	名詞
