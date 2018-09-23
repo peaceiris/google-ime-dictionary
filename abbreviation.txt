@@ -159,6 +159,7 @@ NGO	Non Governmental Organization	名詞
 NKF	Network Kanji Filter	名詞
 NLP	Natural Language Processing	名詞
 NPM	Node Package Manager	名詞
+NPO	Nonprofit Organization	名詞
 NTFS	NT File System	名詞
 OCR	Optical Character Reader	名詞
 OCR	Optical Character Recognition	名詞
