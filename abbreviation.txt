@@ -227,6 +227,7 @@ UAE	United Arab Emirates	名詞
 UDP	User Datagram Protocol	名詞
 UI	User Interface	名詞
 UMA	Unidentified Mysterious Animal	名詞
+UNESCO	United Nations Educational, Scientific and Cultural Organization	名詞
 UNICEF	United Nations Children's Fund	名詞
 UPS	Uninterruptible Power Supply	名詞
 URI	Uniform Resource Identifier	名詞
