@@ -215,6 +215,7 @@ TBD	To Be Determined	名詞
 TCP	Transmission Control Protocol	名詞
 TDL	Tokyo Disney Land	名詞
 TDR	Tokyo Disney Resort	名詞
+TDS	Tokyo Disney Sea	名詞
 TLD	Top-Level Domain	名詞
 TOC	Table of Contents	名詞
 TPS	Third Person Shooter	名詞
