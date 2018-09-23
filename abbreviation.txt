@@ -124,6 +124,7 @@ JDK	Java Development Kit	名詞
 JOC	Japanese Olympic Committee	名詞
 JPEG	Joint Photographic Experts Group	名詞
 JPEG	Joint Picture Expert Group	名詞
+JPG	Joint Photographic Experts Group	名詞
 JS	JavaScript	名詞
 JSON	JavaScript Object Notation	名詞
 JTB	Japan Travel Bureau	名詞
