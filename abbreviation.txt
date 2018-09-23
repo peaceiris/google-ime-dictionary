@@ -155,6 +155,7 @@ NASDAQ	National Association of Securities Dealers Automated Quotations	名詞
 NAT	Network Address Translation	名詞
 NATO	North Atlantic Treaty Organization	名詞
 NBA	National Basketball Association	名詞
+NGO	Non Governmental Organization	名詞
 NKF	Network Kanji Filter	名詞
 NLP	Natural Language Processing	名詞
 NPM	Node Package Manager	名詞
