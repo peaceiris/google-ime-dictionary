@@ -242,6 +242,7 @@ VPN	Virtual Private Network	名詞
 VPS	Virtual Private Server	名詞
 VR	Virtual Reality	名詞
 VSC	Visual Studio Code	名詞
+VTR	Video Tape Recorder	名詞
 W3C	World Wide Web Consortium	名詞
 WAN	Wide Area Network	名詞
 WBC	World Baseball Classic	名詞
