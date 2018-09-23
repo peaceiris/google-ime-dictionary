@@ -97,6 +97,7 @@ MD	Material Design	名詞
 MFA	Multi-Factor Authentication	名詞
 MFCC	Mel-Frequency Cepstrum Coefficients	名詞
 MIPS	Microprocessor without Interlocked Pipeline Stages	名詞
+MIT	Massachusetts Institute of Technology	名詞
 ML	Machine Learning	名詞
 MS	Microsoft	名詞
 NAS	Network Attached Storage	名詞
