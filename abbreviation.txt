@@ -246,6 +246,7 @@ VTR	Video Tape Recorder	名詞
 W3C	World Wide Web Consortium	名詞
 WAN	Wide Area Network	名詞
 WBC	World Baseball Classic	名詞
+WBC	World Boxing Council	名詞
 WP	WordPress	名詞
 WSGI	Web Server Gateway Interface	名詞
 WWW	World Wide Web	名詞
