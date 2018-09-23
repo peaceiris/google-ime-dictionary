@@ -1,3 +1,4 @@
+ADSL	Asymmetric Digital Subscriber Line	名詞
 AES	Advanced Encryption Standard	名詞
 AI	Artificial Intelligence	名詞
 AMP	Accelerated Mobile Pages	名詞
