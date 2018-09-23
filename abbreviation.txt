@@ -86,6 +86,7 @@ GF	girl friend	名詞
 GH	GitHub	名詞
 GHE	GitHub Enterprise	名詞
 GHP	GitHub Pages	名詞
+GIF	Graphics Interchange Format	名詞
 GL	GitLab	名詞
 GLP	GitLab Pages	名詞
 GNOME	GNU Network Object Model Environment	名詞
