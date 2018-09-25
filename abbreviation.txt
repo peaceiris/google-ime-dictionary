@@ -197,6 +197,7 @@ RNN	Recurrent Neural Network	名詞
 ROM	Read Only Memory	名詞
 ROR	Ruby on Rails	名詞
 RPI	Raspberry Pi	名詞
+SA	Student Assistant	名詞
 SB	SoftBank	名詞
 SEO	Search Engine Optimization	名詞
 SMS	Short Message Service	名詞
