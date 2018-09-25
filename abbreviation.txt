@@ -205,6 +205,7 @@ SEO	Search Engine Optimization	名詞
 SMS	Short Message Service	名詞
 SMTP	Simple Mail Transfer Protocol	名詞
 SNS	Social Networking Service	名詞
+SP	Security Police	名詞
 SPA	Single Page Application	名詞
 SQL	Structured Query Language	名詞
 SSD	Solid State Drive	名詞
