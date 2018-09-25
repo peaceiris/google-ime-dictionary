@@ -211,6 +211,7 @@ SSL	Secure Sockets Layer	名詞
 SSR	Server Side Rendering	名詞
 SVG	Scalable Vector Graphics	名詞
 SVM	Support Vector Machine	名詞
+TA	Teaching Assistant	名詞
 TBC	To Be Continued	名詞
 TBD	To Be Decided	名詞
 TBD	To Be Determined	名詞
