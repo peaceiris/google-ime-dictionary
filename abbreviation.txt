@@ -135,7 +135,7 @@ JS	JavaScript	名詞
 JSON	JavaScript Object Notation	名詞
 JTB	Japan Travel Bureau	名詞
 KGI	Key Goal Indicator	名詞
-KPI	key performance indicator	名詞
+KPI	Key Performance Indicator	名詞
 LAN	Local Area Network	名詞
 LDAP	Lightweight Directory Access Protocol	名詞
 LED	Light Emitting Diode	名詞
