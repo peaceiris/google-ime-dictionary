@@ -54,7 +54,14 @@
 
 ## 辞書の中身をちょっとだけ紹介
 
+[tsv/](./tsv) ディレクトリの中の `tsv` 拡張子ファイルの中身を GitHub 上で以下のように検索することができます。
+どんな短縮語が収録されているか確認するのに役立ちます。
+
+![tsv.gif](./tsv.gif)
+
 ### edict-googleime.txt
+
+- [GitHub上で中身を検索](./tsv/edict-googleime.tsv)
 
 | 変換前      | 変換後               |
 |-------------|----------------------|
@@ -70,6 +77,8 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 270以上の単語が収録されています。
 
+- [GitHub上で中身を検索](./tsv/abbreviation.tsv)
+
 | 変換前 | 変換後                             |
 |--------|------------------------------------|
 | TOC    | Table of Contents                  |
@@ -80,6 +89,8 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 | CNN    | Convolutional Neural Netwok        |
 
 ### day_month.txt
+
+- [GitHub上で中身を検索](./tsv/day_month.tsv)
 
 #### 英語曜日
 
