@@ -75,6 +75,7 @@ FIFO	First In First Out	名詞
 FPS	First Person Shooter	名詞
 FPS	Frames Per Second	名詞
 FTP	File Transfer Protocol	名詞
+FW	framework	名詞
 FYI	For your information	名詞
 GA	Genetic Algorithm	名詞
 GA	Google Analytics	名詞
