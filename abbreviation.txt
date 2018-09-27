@@ -204,6 +204,7 @@ ROR	Ruby on Rails	名詞
 RPI	Raspberry Pi	名詞
 SA	Student Assistant	名詞
 SB	SoftBank	名詞
+SCM	Software Configuration Management	名詞
 SEO	Search Engine Optimization	名詞
 SMS	Short Message Service	名詞
 SMTP	Simple Mail Transfer Protocol	名詞
