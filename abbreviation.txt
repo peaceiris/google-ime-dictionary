@@ -236,6 +236,7 @@ TOPIX	Tokyo Stock Price Index	名詞
 TPP	Trans-Pacific Partnership	名詞
 TPS	Third Person Shooter	名詞
 TPU	Tensor Processing Unit	名詞
+TSP	Traveling Salesman Problem	名詞
 TSV	Tab-Separated Values	名詞
 TTYL	Talk to you later	名詞
 TW	Twitter	名詞
