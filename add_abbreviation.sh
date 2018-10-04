@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/usr/bin/env bash
+set -eu
 read -p "abbreviation: " abb
 read -p "expanded: " expanded
 echo "${abb}\t${expanded}\t名詞" >> abbreviation.txt
