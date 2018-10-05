@@ -181,7 +181,6 @@ OMG	Oh My God	名詞
 OPEC	Organization of the Petroleum Exporting Countries	名詞
 OS	Operating System	名詞
 OSS	Open Source Software	名詞
-OTP\tOne Time Password\t名詞
 PC	Personal Computer	名詞
 PC	Program Counter	名詞
 PCA	Principal Component Analysis	名詞
