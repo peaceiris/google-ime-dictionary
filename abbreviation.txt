@@ -259,6 +259,7 @@ URL	Uniform Resource Locator	名詞
 USA	United States of America	名詞
 USB	Universal Serial Bus	名詞
 USJ	Universal Studios Japan	名詞
+UTC	Coordinated Universal Time	名詞
 VCS	Version Control System	名詞
 VM	Virtual Machine	名詞
 VOD	Video On Demand	名詞
