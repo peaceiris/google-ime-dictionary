@@ -278,7 +278,6 @@ WTO	World Trade Organization	名詞
 WWW	World Wide Web	名詞
 YMCA	Young Men's Christian Association	名詞
 YOLO	You Only Live Once	名詞
-asg\tasdgas\t名詞
 d11n	Documentation	名詞
 g11n	Globalization	名詞
 k8s	Kubernetes	名詞
