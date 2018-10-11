@@ -156,6 +156,7 @@ LTE	Long Term Evolution	名詞
 LTS	Long-term support	名詞
 M&A	Mergers and Acquisitions	名詞
 MBA	MacBook Air	名詞
+MBA	Master of Business Administration	名詞
 MBP	MacBook Pro	名詞
 MD	Markdown	名詞
 MD	Material Design	名詞
