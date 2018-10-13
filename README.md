@@ -1,4 +1,4 @@
-# Google日本語入力用のユーザー辞書(日英変換・略語展開)
+# Google日本語入力用のユーザー辞書(日英変換・英語略語展開)
 
 ![sample gif](./images/sample.gif)
 
