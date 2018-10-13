@@ -31,6 +31,8 @@
   - [abbreviation.txt](#abbreviationtxt-1)
   - [day_month.txt](#day_monthtxt-1)
 - [Licence](#licence)
+  - [CC BY-SA 3.0](#cc-by-sa-30)
+  - [MIT](#mit)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -206,18 +208,19 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 
 ## Licence
 
-- [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
+### [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-このライセンスは辞書ファイルにのみ適用されます。
-
-- 辞書ファイル (Dictionary Files)
+- このライセンスは次に挙げる辞書ファイルにのみ適用されます。
     - edict-googleime.txt
     - edict-googleime_us.txt
-    - edict-googleime_notrigger.txt
-    - abbreviation.txt
-    - day_month.txt
+- cf. [kyontan/edict-for-google-ime]
+
+### MIT
+
+- abbreviation.txt
+- day_month.txt
 
 
 
@@ -230,7 +233,6 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 - EDICT
     - Japanese-English Electronic DICTionary
     - Original: [The EDICT Dictionary File]
-    - cf. [kyontan/edict-for-google-ime]
 - [Google日本語入力]
 
 [Jump to TOC :small_red_triangle:]
