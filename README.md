@@ -32,7 +32,7 @@
   - [day_month.txt](#day_monthtxt-1)
 - [Licence](#licence)
   - [CC BY-SA 3.0](#cc-by-sa-30)
-  - [MIT](#mit)
+  - [MIT Licence](#mit-licence)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -210,17 +210,17 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 
 ### [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
-![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
 
 - このライセンスは次に挙げる辞書ファイルにのみ適用されます。
-    - edict-googleime.txt
-    - edict-googleime_us.txt
-- cf. [kyontan/edict-for-google-ime]
+    - `edict-googleime.txt` from [kyontan/edict-for-google-ime]
+    - `edict-googleime_us.txt` (上を継承)
 
-### MIT
+### MIT Licence
 
-- abbreviation.txt
-- day_month.txt
+- 以下の辞書ファイルに [MIT Licence](./LICENSE) が適用されます。
+    - abbreviation.txt
+    - day_month.txt
 
 
 
