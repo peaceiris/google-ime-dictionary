@@ -1,4 +1,4 @@
-# Google日本語入力用のユーザー辞書(日英変換・英語略語展開)
+# 日英変換・英語略語展開のための IME 追加辞書
 
 ![sample gif](./images/sample.gif)
 
@@ -30,9 +30,10 @@
   - [edict-googleime_notrigger.txt](#edict-googleime_notriggertxt)
   - [abbreviation.txt](#abbreviationtxt-1)
   - [day_month.txt](#day_monthtxt-1)
-- [Licence](#licence)
+- [License](#license)
   - [CC BY-SA 3.0](#cc-by-sa-30)
-  - [MIT Licence](#mit-licence)
+  - [MIT License](#mit-license)
+- [Author](#author)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -43,14 +44,16 @@
 
 ## 概要
 
-9万8千語が収録されている [The EDICT Dictionary File] を利用したIME用の辞書である
-[IME和英辞書 - EDICT for MS-IME 2] に若干の修正を加え､
-[Google日本語入力]に対応させたものです｡
+Google 日本語入力, Microsoft IME, ATOK などの IME で**日本語を英語に変換**したり、
+**英語の略語を展開**したりするための辞書を公開しています。
 
-- 略語を収録した辞書([abbreviation.txt])
+- 日本語を英語に変換するための辞書
+    - US キーボード向け: [edict-googleime_us.txt]
+    - JIS キーボード向け: [edict-googleime.txt]
+- 英語略語を展開するための辞書: [abbreviation.txt]
 - その他便利な辞書
 
-も追加しています。
+関連プロジェクト: [絵文字入力を日本語でするための IME 追加辞書](https://github.com/peaceiris/emoji-ime-dictionary)
 
 
 
@@ -206,32 +209,34 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 
 
 
-## Licence
+## License
 
 ### [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
 ![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
 
-- このライセンスは次に挙げる辞書ファイルにのみ適用されます。
-    - `edict-googleime.txt` from [kyontan/edict-for-google-ime]
-    - `edict-googleime_us.txt` 上を継承
+このライセンスは次に挙げる辞書ファイルにのみ適用されます。
 
-### MIT Licence
+- `edict-googleime.txt` from [kyontan/edict-for-google-ime]
+- `edict-googleime_us.txt` 上を継承
 
-残りのファイル群に [MIT Licence](./LICENSE) が適用されます。
+### MIT License
+
+残りのファイルには [MIT License](./LICENSE) が適用されます。
+
+
+
+## Author
+
+- peaceiris
+    - [Github](https://github.com/peaceiris)
+    - [Twitter](https://twitter.com/piris314)
 
 
 
 ## References
 
-- peaceiris
-    - [Github](https://github.com/peaceiris)
-    - [Twitter](https://twitter.com/piris314)
-    - [Google日本語入力で日本語を英語に変換するための辞書](https://www.p-iris.com/blog/english/google_ime_dictionary/)
-- EDICT
-    - Japanese-English Electronic DICTionary
-    - Original: [The EDICT Dictionary File]
-- [Google日本語入力]
+- [Google日本語入力で日本語を英語に変換するための辞書](https://www.p-iris.com/blog/english/google_ime_dictionary/)
 
 [Jump to TOC :small_red_triangle:]
 
@@ -239,7 +244,6 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 
 <!-- External References -->
 [Google日本語入力]: https://www.google.co.jp/ime/
-[The EDICT Dictionary File]: http://www.edrdg.org/jmdict/edict.html
 [kyontan/edict-for-google-ime]: https://github.com/kyontan/edict-for-google-ime
 [IME和英辞書 - EDICT for MS-IME 2]: http://www.nurs.or.jp/~nagadomi/edictime2/
 
