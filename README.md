@@ -214,13 +214,11 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 
 - このライセンスは次に挙げる辞書ファイルにのみ適用されます。
     - `edict-googleime.txt` from [kyontan/edict-for-google-ime]
-    - `edict-googleime_us.txt` (上を継承)
+    - `edict-googleime_us.txt` 上を継承
 
 ### MIT Licence
 
-- 以下の辞書ファイルに [MIT Licence](./LICENSE) が適用されます。
-    - abbreviation.txt
-    - day_month.txt
+残りのファイル群に [MIT Licence](./LICENSE) が適用されます。
 
 
 
