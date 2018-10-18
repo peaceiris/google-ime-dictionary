@@ -1,5 +1,8 @@
 # 日英変換・英語略語展開のための IME 追加辞書
 
+<!-- https://shields.io/ -->
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/peaceiris/google-ime-dictionary/blob/master/LICENSE)
+
 ![sample gif](./images/sample.gif)
 
 
