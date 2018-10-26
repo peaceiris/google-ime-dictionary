@@ -205,6 +205,7 @@ PC	Personal Computer	名詞
 PC	Program Counter	名詞
 PCA	Principal Component Analysis	名詞
 PDF	Portable Document Format	名詞
+PFN	Preferred Networks	名詞
 PGP	Pretty Good Privacy	名詞
 PKO	Peacekeeping Operations	名詞
 PNG	Portable Network Graphics	名詞
