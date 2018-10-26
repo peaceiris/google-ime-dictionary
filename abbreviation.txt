@@ -176,6 +176,7 @@ ML	Machine Learning	名詞
 MNIST	Modified National Institute of Standards and Technology	名詞
 MRI	Magnetic Resonance Imaging	名詞
 MS	Microsoft	名詞
+NAIST	Nara Institute of Science and Technology	名詞
 NAS	Network Attached Storage	名詞
 NASA	National Aeronautical and Space Administration	名詞
 NASDAQ	National Association of Securities Dealers Automated Quotations	名詞
