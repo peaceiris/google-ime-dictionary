@@ -251,8 +251,8 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 [IME和英辞書 - EDICT for MS-IME 2]: http://www.nurs.or.jp/~nagadomi/edictime2/
 
 <!-- Internal References -->
-[edict-googleime_us.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/edict-googleime_us.txt
-[edict-googleime.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/edict-googleime.txt
-[abbreviation.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/abbreviation.txt
-[day_month.txt]: https://raw.githubusercontent.com/peaceiris/google-ime-dictionary/master/day_month.txt
+[edict-googleime.txt]: https://github.com/peaceiris/google-ime-dictionary/releases/download/v1.0.0/edict-googleime.zip
+[edict-googleime_us.txt]: https://github.com/peaceiris/google-ime-dictionary/releases/download/v1.0.0/edict-googleime_us.zip
+[abbreviation.txt]: https://github.com/peaceiris/google-ime-dictionary/releases/download/v1.0.0/abbreviation.zip
+[day_month.txt]: https://github.com/peaceiris/google-ime-dictionary/releases/download/v1.0.0/day_month.zip
 [Jump to TOC :small_red_triangle:]: #table-of-contents
