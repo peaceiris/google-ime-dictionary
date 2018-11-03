@@ -25,6 +25,7 @@
     - [日本語曜日](#%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%9B%9C%E6%97%A5)
     - [月](#%E6%9C%88)
 - [辞書のインポート方法](#%E8%BE%9E%E6%9B%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E6%96%B9%E6%B3%95)
+  - [辞書のダウンロード](#%E8%BE%9E%E6%9B%B8%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89)
   - [インポート](#%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88)
   - [アップデート](#%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88)
 - [使い方](#%E4%BD%BF%E3%81%84%E6%96%B9)
@@ -51,9 +52,7 @@ Google 日本語入力, Microsoft IME, ATOK などの IME で**日本語を英�
 **英語の略語を展開**したりするための辞書を公開しています。
 
 - 日本語を英語に変換するための辞書
-    - US キーボード向け: [edict-googleime_us.txt]
-    - JIS キーボード向け: [edict-googleime.txt]
-- 英語略語を展開するための辞書: [abbreviation.txt]
+- 英語略語を展開するための辞書
 - その他便利な辞書
 
 関連プロジェクト: [絵文字入力を日本語でするための IME 追加辞書](https://github.com/peaceiris/emoji-ime-dictionary)
@@ -144,13 +143,19 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 ## 辞書のインポート方法
 
+### 辞書のダウンロード
+
+- [Releases · peaceiris/google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary/releases)
+
+上のリンク先から最新の辞書ファイルをダウンロード・解凍してください。
+
+- USキーボードの方は `edict-googleime_us.txt`
+- JISキーボードの方は `edict-googleime.txt`
+- 略語の辞書は `abbreviation.txt`
+- 曜日・月の辞書は `day_month.txt`
+
 ### インポート
 
-1. 最新の辞書ファイルをダウンロード
-    - USキーボードの方は [edict-googleime_us.txt]
-    - JISキーボードの方は [edict-googleime.txt]
-    - 略語の辞書は [abbreviation.txt]
-    - 曜日・月の辞書は [day_month.txt]
 1. Google日本語入力の `辞書ツール` を開く
 1. `管理` をクリック
 1. `新規辞書にインポート` をクリック
@@ -158,23 +163,15 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 1. お好きな `辞書名` をつける
 1. `インポート` をクリック
 
-Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dictionary Tool of Google Japanese Input.
-
 ### アップデート
 
-1. 最新の辞書ファイルをダウンロード
-    - USキーボードの方は [edict-googleime_us.txt]
-    - JISキーボードの方は [edict-googleime.txt]
-    - 略語の辞書は [abbreviation.txt]
-    - 曜日・月の辞書は [day_month.txt]
+1. 最新の辞書ファイルをダウンロード・解凍
 1. Google日本語入力の `辞書ツール` を開く
 1. アップデートする辞書を選択する
 1. `管理` をクリック
 1. `選択した辞書にインポート` をクリック
-1. `ファイルを選択` からダウンロードしたファイルを選択
+1. `ファイルを選択` からダウンロード・解凍したファイルを選択
 1. `インポート` をクリック
-
-リポジトリをクローンしている方は `git pull origin master` で最新の辞書データをダウンロードできます。
 
 
 
@@ -251,8 +248,4 @@ Download [edict-googleime_us.txt] or [edict-googleime.txt] and import using Dict
 [IME和英辞書 - EDICT for MS-IME 2]: http://www.nurs.or.jp/~nagadomi/edictime2/
 
 <!-- Internal References -->
-[edict-googleime.txt]: https://github.com/peaceiris/google-ime-dictionary/releases/download/v1.0.0/edict-googleime.zip
-[edict-googleime_us.txt]: https://github.com/peaceiris/google-ime-dictionary/releases/download/v1.0.0/edict-googleime_us.zip
-[abbreviation.txt]: https://github.com/peaceiris/google-ime-dictionary/releases/download/v1.0.0/abbreviation.zip
-[day_month.txt]: https://github.com/peaceiris/google-ime-dictionary/releases/download/v1.0.0/day_month.zip
 [Jump to TOC :small_red_triangle:]: #table-of-contents
