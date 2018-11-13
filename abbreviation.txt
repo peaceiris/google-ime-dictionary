@@ -226,6 +226,7 @@ PS	PostScript	名詞
 PWA	Progressive Web Apps	名詞
 QED	Quod Erat Demonstrandum	名詞
 QOL	Quality Of Life	名詞
+QUIC	Quick UDP Internet Connections	名詞
 RAID	Redundant Arrays of Inexpensive Disks	名詞
 RAM	Random Access Memory	名詞
 RDB	Relational Database	名詞
