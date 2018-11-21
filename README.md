@@ -145,7 +145,7 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 ### 辞書のダウンロード
 
-- [Releases · peaceiris/google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary/releases)
+- [Releases · peaceiris/google-ime-dictionary](https://github.com/peaceiris/google-ime-dictionary/releases/latest)
 
 上のリンク先から最新の辞書ファイルをダウンロード・解凍してください。
 
