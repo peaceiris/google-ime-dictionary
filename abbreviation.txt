@@ -184,6 +184,7 @@ MIT	Massachusetts Institute of Technology	名詞
 ML	Machine Learning	名詞
 MLP	Multilayer perceptron	名詞
 MNIST	Modified National Institute of Standards and Technology	名詞
+MR	Merge Request	名詞
 MRI	Magnetic Resonance Imaging	名詞
 MS	Microsoft	名詞
 NAIST	Nara Institute of Science and Technology	名詞
