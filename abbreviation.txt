@@ -212,6 +212,7 @@ NTT	Nippon Telegraph and Telephone Corporation	名詞
 OCR	Optical Character Reader	名詞
 OCR	Optical Character Recognition	名詞
 ODA	Official Development Assistance	名詞
+OLAC	Open Language Archives Community	名詞
 OLED	Organic Light Emitting Diode	名詞
 OMG	Oh My God	名詞
 OPEC	Organization of the Petroleum Exporting Countries	名詞
