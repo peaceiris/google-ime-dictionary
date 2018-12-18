@@ -16,11 +16,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Table of Contents](#table-of-contents)
 - [概要](#%E6%A6%82%E8%A6%81)
 - [辞書の中身をちょっとだけ紹介](#%E8%BE%9E%E6%9B%B8%E3%81%AE%E4%B8%AD%E8%BA%AB%E3%82%92%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E3%81%A0%E3%81%91%E7%B4%B9%E4%BB%8B)
   - [edict-googleime.txt](#edict-googleimetxt)
   - [abbreviation.txt](#abbreviationtxt)
-  - [day_month.txt](#day_monthtxt)
+  - [day_month.txt](#daymonthtxt)
     - [英語曜日](#%E8%8B%B1%E8%AA%9E%E6%9B%9C%E6%97%A5)
     - [日本語曜日](#%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%9B%9C%E6%97%A5)
     - [月](#%E6%9C%88)
@@ -30,10 +31,10 @@
   - [アップデート](#%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88)
 - [使い方](#%E4%BD%BF%E3%81%84%E6%96%B9)
   - [edict-googleime.txt](#edict-googleimetxt-1)
-  - [edict-googleime_us.txt](#edict-googleime_ustxt)
-  - [edict-googleime_notrigger.txt](#edict-googleime_notriggertxt)
+  - [edict-googleime_us.txt](#edict-googleimeustxt)
+  - [edict-googleime_notrigger.txt](#edict-googleimenotriggertxt)
   - [abbreviation.txt](#abbreviationtxt-1)
-  - [day_month.txt](#day_monthtxt-1)
+  - [day_month.txt](#daymonthtxt-1)
 - [License](#license)
   - [CC BY-SA 3.0](#cc-by-sa-30)
   - [MIT License](#mit-license)
@@ -75,7 +76,7 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 ### abbreviation.txt
 
-**330** 以上の単語が収録されています。
+**340** 以上の単語が収録されています。
 
 | GitHub上で中身を検索できます |
 |:----|
