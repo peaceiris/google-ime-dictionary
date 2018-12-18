@@ -230,6 +230,7 @@ PGP	Pretty Good Privacy	名詞
 PKO	Peacekeeping Operations	名詞
 PNG	Portable Network Graphics	名詞
 POP	Post Office Protocol	名詞
+POS	Part-of-speech	名詞
 POSIX	Portable Operating System Interface for UNIX	名詞
 PPAP	Pen-Pineapple-Apple-Pen	名詞
 PR	Pull Request	名詞
