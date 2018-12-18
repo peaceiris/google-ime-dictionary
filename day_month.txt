@@ -45,3 +45,15 @@ m12	December	名詞
 どよう	Sat.	名詞
 にちよう	Sunday	名詞
 にちよう	Sun.	名詞
+1がつ	January	名詞
+2がつ	February	名詞
+3がつ	March	名詞
+4がつ	April	名詞
+5がつ	May	名詞
+6がつ	June	名詞
+7がつ	July	名詞
+8がつ	August	名詞
+9がつ	September	名詞
+10がつ	October	名詞
+11がつ	November	名詞
+12がつ	December	名詞
