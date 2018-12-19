@@ -1,6 +1,7 @@
 # 日英変換・英語略語展開のための IME 追加辞書
 
 <!-- https://shields.io/ -->
+[![Creative Commons License](https://img.shields.io/badge/license-Creative%20Commons-green.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/peaceiris/google-ime-dictionary/blob/master/LICENSE)
 
 ![sample gif](./images/sample.gif)
@@ -158,11 +159,11 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 ### インポート
 
 1. Google日本語入力の `辞書ツール` を開く
-1. `管理` をクリック
-1. `新規辞書にインポート` をクリック
-1. `ファイルを選択` からダウンロードしたファイルを選択
-1. お好きな `辞書名` をつける
-1. `インポート` をクリック
+2. `管理` をクリック
+3. `新規辞書にインポート` をクリック
+4. `ファイルを選択` からダウンロードしたファイルを選択
+5. お好きな `辞書名` をつける
+6. `インポート` をクリック
 
 ### アップデート
 
@@ -212,9 +213,9 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 ## License
 
-### [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
+### CC BY-SA 3.0
 
-![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
+[![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
 このライセンスは次に挙げる辞書ファイルにのみ適用されます。
 
