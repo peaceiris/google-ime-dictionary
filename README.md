@@ -82,7 +82,7 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 |:----|
 | [tsv/](./tsv) ディレクトリの中の `tsv` 拡張子ファイルの中身を GitHub 上で以下のように検索することができます。どんな短縮語が収録されているか確認するのに役立ちます。 |
 
-![tsv.gif](./images/tsv.gif)
+![tsv.mp4](./images/tsv.mp4)
 
 - [GitHub上で単語を検索](./tsv/abbreviation.tsv)
 
