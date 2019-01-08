@@ -286,6 +286,7 @@ TCP	Transmission Control Protocol	名詞
 TDL	Tokyo Disney Land	名詞
 TDR	Tokyo Disney Resort	名詞
 TDS	Tokyo Disney Sea	名詞
+TF	TensorFlow	名詞
 TF	Term Frequency	名詞
 TF	Transfer learning	名詞
 TIL	Today I learned	名詞
