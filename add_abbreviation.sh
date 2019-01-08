@@ -8,7 +8,7 @@ read -p "expanded: " expanded
 echo -e "${abb}\t${expanded}\t名詞" >> abbreviation.txt
 sort -u abbreviation.txt -o abbreviation.txt
 cp abbreviation.txt ./tsv/abbreviation.tsv
-sed -i '1iReading\tWord\tCategory\t' ./tsv/abbreviation.tsv
+sed -i '1iReading\tWord\tCategory' ./tsv/abbreviation.tsv
 
 git diff
 git add abbreviation.txt ./tsv/abbreviation.tsv
