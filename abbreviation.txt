@@ -95,6 +95,7 @@ GA	Genetic Algorithm	名詞
 GA	Google Analytics	名詞
 GAE	Google App Engine	名詞
 GAFA	Google Apple Facebook Amazon	名詞
+GAFMA	Google Apple Facebook Microsoft Amazon	名詞
 GAN	Generative Adversarial Network	名詞
 GAS	Google Apps Script	名詞
 GC	Garbage Collection	名詞
