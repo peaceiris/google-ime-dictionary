@@ -233,6 +233,12 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
     - [Github](https://github.com/peaceiris)
     - [Twitter](https://twitter.com/piris314)
 
+何かあれば [Issue] を立ててください。Fork & [Pull Requests] もお待ちしてます。
+
+<!-- 「Qiita いいね :thumbsup:」や「GitHub Star :star:」をいただけると励みになります。 -->
+
+「GitHub Star :star:」をいただけると励みになります。
+
 
 
 ## References
@@ -250,3 +256,5 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 <!-- Internal References -->
 [Jump to TOC :small_red_triangle:]: #table-of-contents
+[Issue]: https://github.com/peaceiris/google-ime-dictionary/issues
+[Pull Requests]: https://github.com/peaceiris/google-ime-dictionary/pulls
