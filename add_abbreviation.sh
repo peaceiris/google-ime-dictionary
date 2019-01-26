@@ -16,5 +16,5 @@ sed -i '1i!!ATOK_TANGO_TEXT_HEADER_1' ./atok/abbreviation.utf16.txt
 nkf -w16 --overwrite ./atok/abbreviation.utf16.txt
 
 git diff
-git add abbreviation.txt ./tsv/abbreviation.tsv
+git add abbreviation.txt ./tsv/abbreviation.tsv ./atok/abbreviation.utf16.txt
 git commit -m "Script: add ${abb} (${expanded})"
