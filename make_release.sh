@@ -3,5 +3,9 @@
 # Fail on unset variables and command errors
 set -ue -o pipefail
 
-zip abbreviation.zip abbreviation.txt
-mv abbreviation.zip ~/Desktop/
+files="abbreviation abbreviation.utf16"
+
+for i in ${files}; do
+    zip ${i}.zip ${i}.txt
+    mv ${i}.zip ~/Desktop/
+done
