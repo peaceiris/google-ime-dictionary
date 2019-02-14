@@ -1,8 +1,7 @@
 # 日英変換・英語略語展開のための IME 追加辞書
 
 <!-- https://shields.io/ -->
-[![Creative Commons License](https://img.shields.io/badge/license-Creative%20Commons-green.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/peaceiris/google-ime-dictionary/blob/master/LICENSE)
+[![Creative Commons License](https://img.shields.io/badge/license-Creative%20Commons%20%26%20MIT-brightgreen.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
 ![sample gif](./images/sample.gif)
 
