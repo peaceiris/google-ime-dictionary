@@ -1,9 +1,11 @@
-# 日英変換・英語略語展開のための IME 追加辞書
-
 <!-- https://shields.io/ -->
 [![Creative Commons License](https://img.shields.io/badge/license-Creative%20Commons%20%26%20MIT-brightgreen.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
-![sample gif](./images/sample.gif)
+<div align="center">
+<img src="./images/sample.gif" alt="日英変換・英語略語展開のための IME 追加辞書" height="300px">
+</div>
+
+<h1 align="center">日英変換・英語略語展開のための<br>IME 追加辞書</h1>
 
 
 
@@ -81,7 +83,9 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 |:----|
 | [tsv/](./tsv) ディレクトリの中の `tsv` 拡張子ファイルの中身を GitHub 上で以下のように検索することができます。どんな短縮語が収録されているか確認するのに役立ちます。 |
 
-![tsv.gif](./images/tsv.gif)
+<div align="center">
+<img src="./images/tsv.gif" alt="日英変換・英語略語展開のための IME 追加辞書" height="300px">
+</div>
 
 - [GitHub上で単語を検索](./tsv/abbreviation.tsv)
 
@@ -254,6 +258,10 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 ## References
 
 - [Google日本語入力で日本語を英語に変換するための辞書](https://www.p-iris.com/blog/english/google_ime_dictionary/)
+
+
+
+---
 
 [Jump to TOC :small_red_triangle:]
 
