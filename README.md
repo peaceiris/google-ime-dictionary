@@ -265,18 +265,16 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 
 
----
+<div align="right">
+<a href="#table-of-contents">Jump to TOC ☝️</a>
+</div>
 
-[Jump to TOC :small_red_triangle:]
 
 
-
+<!-- Internal References -->
+[Issue]: https://github.com/peaceiris/google-ime-dictionary/issues
+[Pull Requests]: https://github.com/peaceiris/google-ime-dictionary/pulls
 <!-- External References -->
 [Google日本語入力]: https://www.google.co.jp/ime/
 [kyontan/edict-for-google-ime]: https://github.com/kyontan/edict-for-google-ime
 [IME和英辞書 - EDICT for MS-IME 2]: http://www.nurs.or.jp/~nagadomi/edictime2/
-
-<!-- Internal References -->
-[Jump to TOC :small_red_triangle:]: #table-of-contents
-[Issue]: https://github.com/peaceiris/google-ime-dictionary/issues
-[Pull Requests]: https://github.com/peaceiris/google-ime-dictionary/pulls
