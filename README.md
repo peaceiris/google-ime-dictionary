@@ -232,6 +232,7 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 - peaceiris
     - [Github](https://github.com/peaceiris)
     - [Twitter](https://twitter.com/piris314)
+    - [Amazon wish list](http://amzn.asia/ilWK0Yj)
 
 何かあれば [Issue] を立ててください。Fork & [Pull Requests] もお待ちしてます。
 
