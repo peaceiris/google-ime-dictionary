@@ -94,6 +94,7 @@ FB	Facebook	名詞
 FB	Firebase	名詞
 FBI	Federal Bureau of Investigation	名詞
 FD	Floppy Disk	名詞
+FIDO	Fast IDentity Online	名詞
 FIFO	First In First Out	名詞
 FILO	First In Last Out	名詞
 FPGA	Field Programmable Gate Array	名詞
