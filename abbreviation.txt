@@ -2,6 +2,7 @@ ADSL	Asymmetric Digital Subscriber Line	名詞
 AE	Adversarial Example	名詞
 AES	Advanced Encryption Standard	名詞
 AI	Artificial Intelligence	名詞
+AKS	Azure Kubernetes Service	名詞
 AMD	Advanced Micro Devices	名詞
 AMP	Accelerated Mobile Pages	名詞
 API	Application Programming Interface	名詞
