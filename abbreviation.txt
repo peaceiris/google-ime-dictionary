@@ -325,6 +325,7 @@ USA	United States of America	名詞
 USB	Universal Serial Bus	名詞
 USJ	Universal Studios Japan	名詞
 UTC	Coordinated Universal Time	名詞
+UX	user experience	名詞
 VCS	Version Control System	名詞
 VM	Virtual Machine	名詞
 VNC	Virtual Network Computing	名詞
