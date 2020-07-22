@@ -76,6 +76,7 @@ DRAM	Dynamic Random Access Memory	名詞
 DVD	Digital Versatile Disc	名詞
 ELM	Extreme Learning Machine	名詞
 EOF	End Of File	名詞
+ETA	Estimated Time of Arrival	名詞
 ETC	Electronic Toll Collection System	名詞
 ETD	Estimated Time of Departure	名詞
 ETF	Exchange-Traded Fund	名詞
