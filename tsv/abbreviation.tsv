@@ -3,6 +3,7 @@ ADSL	Asymmetric Digital Subscriber Line	名詞
 AE	Adversarial Example	名詞
 AES	Advanced Encryption Standard	名詞
 AI	Artificial Intelligence	名詞
+AKS	Azure Kubernetes Service	名詞
 AMD	Advanced Micro Devices	名詞
 AMP	Accelerated Mobile Pages	名詞
 API	Application Programming Interface	名詞
@@ -10,6 +11,7 @@ AR	Augmented Reality	名詞
 ASAP	as soon as possible	名詞
 ASCII	American Standard Code for Information Interchange	名詞
 ASEAN	Association of Southeast Asian Nations	名詞
+ASGI	Asynchronous Server Gateway Interface	名詞
 ASP	Application Service Provider	名詞
 AST	Abstract Syntax Tree	名詞
 ATA	Advanced Technology Attachment	名詞
@@ -68,6 +70,7 @@ DFS	Depth First Search	名詞
 DHCP	Dynamic Host Configuration Protocol	名詞
 DIY	Do It Yourself	名詞
 DL	Deep Learning	名詞
+DMCA	Digital Millennium Copyright Act	名詞
 DNA	Deoxyribonucleic Acid	名詞
 DNS	Domain Name System	名詞
 DOM	Document Object Model	名詞
@@ -75,9 +78,12 @@ DP	Dynamic Programming	名詞
 DQN	Deep Q Network	名詞
 DRAM	Dynamic Random Access Memory	名詞
 DVD	Digital Versatile Disc	名詞
+ECS	Elastic Container Service	名詞
 ELM	Extreme Learning Machine	名詞
 EOF	End Of File	名詞
+ETA	Estimated Time of Arrival	名詞
 ETC	Electronic Toll Collection System	名詞
+ETD	Estimated Time of Departure	名詞
 ETF	Exchange-Traded Fund	名詞
 EUC	Extended Unix Code	名詞
 FAAA	Facebook Alibaba Amazon Alphabet	名詞
@@ -90,6 +96,7 @@ FB	Facebook	名詞
 FB	Firebase	名詞
 FBI	Federal Bureau of Investigation	名詞
 FD	Floppy Disk	名詞
+FIDO	Fast IDentity Online	名詞
 FIFO	First In First Out	名詞
 FILO	First In Last Out	名詞
 FPGA	Field Programmable Gate Array	名詞
@@ -98,6 +105,7 @@ FPS	Frames Per Second	名詞
 FTP	File Transfer Protocol	名詞
 FW	framework	名詞
 FYI	For your information	名詞
+GA	General Availability	名詞
 GA	Genetic Algorithm	名詞
 GA	Google Analytics	名詞
 GAE	Google App Engine	名詞
@@ -107,9 +115,11 @@ GAN	Generative Adversarial Network	名詞
 GAS	Google Apps Script	名詞
 GC	Garbage Collection	名詞
 GC	Google Colaboratory	名詞
+GCB	Google Cloud Build	名詞
 GCE	Google Compute Engine	名詞
 GCF	Google Cloud Functions	名詞
 GCP	Google Cloud Platform	名詞
+GCR	Google Container Registry	名詞
 GDP	Gross Domestic Product	名詞
 GDPR	General Data Protection Regulation	名詞
 GF	girl friend	名詞
@@ -261,6 +271,7 @@ RN	React Native	名詞
 RNN	Recurrent Neural Network	名詞
 ROM	Read Only Memory	名詞
 ROR	Ruby on Rails	名詞
+RPA	Robotic Process Automation	名詞
 RPC	remote procedure call	名詞
 RPI	Raspberry Pi	名詞
 S3	Simple Storage Service	名詞
@@ -275,6 +286,7 @@ SOTA	State-of-the-Art	名詞
 SP	Security Police	名詞
 SPA	Single Page Application	名詞
 SQL	Structured Query Language	名詞
+SRE	Site Reliability Engineering	名詞
 SSD	Single Shot MultiBox Detector	名詞
 SSD	Solid State Drive	名詞
 SSG	Static Site Generator	名詞
@@ -282,6 +294,7 @@ SSH	Secure Shell	名詞
 SSL	Secure Sockets Layer	名詞
 SSO	Single sign-on	名詞
 SSR	Server Side Rendering	名詞
+STEM	Science Technology Engineering Mathematics	名詞
 STEM	Science, Technology, Engineering and Mathematics	名詞
 SVG	Scalable Vector Graphics	名詞
 SVM	Support Vector Machine	名詞
@@ -323,6 +336,7 @@ USA	United States of America	名詞
 USB	Universal Serial Bus	名詞
 USJ	Universal Studios Japan	名詞
 UTC	Coordinated Universal Time	名詞
+UX	user experience	名詞
 VCS	Version Control System	名詞
 VM	Virtual Machine	名詞
 VNC	Virtual Network Computing	名詞
@@ -339,8 +353,10 @@ WBA	World Boxing Association	名詞
 WBC	World Baseball Classic	名詞
 WBC	World Boxing Council	名詞
 WHO	World Health Organization	名詞
+WIP	Work In Progress	名詞
 WP	WordPress	名詞
 WSGI	Web Server Gateway Interface	名詞
+WSL	Windows Subsystem for Linux	名詞
 WTO	World Trade Organization	名詞
 WWW	World Wide Web	名詞
 YMCA	Young Men's Christian Association	名詞
