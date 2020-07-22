@@ -10,6 +10,7 @@ AR	Augmented Reality	名詞
 ASAP	as soon as possible	名詞
 ASCII	American Standard Code for Information Interchange	名詞
 ASEAN	Association of Southeast Asian Nations	名詞
+ASGI	Asynchronous Server Gateway Interface	名詞
 ASP	Application Service Provider	名詞
 AST	Abstract Syntax Tree	名詞
 ATA	Advanced Technology Attachment	名詞
