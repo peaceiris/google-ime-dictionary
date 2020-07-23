@@ -12,14 +12,19 @@ RELEASE_NOTES="release_notes.md"
 
 \rm -rf "${RELEASE_ASSETS_DIR}" || true
 mkdir "${RELEASE_ASSETS_DIR}"
-for i in ${RELEASE_ASSETS_SOURCE}; do
-    zip "./${RELEASE_ASSETS_DIR}/${i}.zip" "./dict/${i}.txt"
-done
+(
+  cd ./dict
+  for i in ${RELEASE_ASSETS_SOURCE}; do
+    zip "../${RELEASE_ASSETS_DIR}/${i}.zip" "./${i}.txt"
+  done
+)
 
 sed -i "1iIME 拡張辞書 ${TAG_NAME}\n" "./${RELEASE_NOTES}"
 
-cd "${RELEASE_ASSETS_DIR}"
-hub release edit \
+(
+  cd "${RELEASE_ASSETS_DIR}"
+  hub release edit \
     --file "../${RELEASE_NOTES}" \
     $(for i in $(echo *); do echo -n "--attach ${i}#${i} "; done) \
     "${TAG_NAME}"
+)
