@@ -39,7 +39,6 @@
   - [CC BY-SA 3.0](#cc-by-sa-30)
   - [MIT License](#mit-license)
 - [Author](#author)
-- [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -140,6 +139,10 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 | m11    | November  |
 | m12    | December  |
 
+<div align="right">
+<a href="#table-of-contents">目次へ戻る ☝️</a>
+</div>
+
 
 
 ## 辞書のインポート方法
@@ -173,6 +176,10 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 1. `選択した辞書にインポート` をクリック
 1. `ファイルを選択` からダウンロード・解凍したファイルを選択
 1. `インポート` をクリック
+
+<div align="right">
+<a href="#table-of-contents">目次へ戻る ☝️</a>
+</div>
 
 
 
@@ -208,6 +215,10 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 - `y1` と入力することで `月曜日` に変換することができます。
 - `m1` と入力することで `January` に変換することができます。
 
+<div align="right">
+<a href="#table-of-contents">目次へ戻る ☝️</a>
+</div>
+
 
 
 ## License
@@ -229,24 +240,17 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 
 ## Author
 
-- peaceiris
-    - [Github](https://github.com/peaceiris)
-    - [Twitter](https://twitter.com/piris314)
-    - [Amazon wish list](http://amzn.asia/ilWK0Yj)
+- [peaceiris homepage](https://peaceiris.com/)
 
-何かあれば [Issue] を立ててください。Fork & [Pull Requests] もお待ちしてます。
+改善案など何かありましたら [Issue] を立ててください。
 
-<!-- 「Qiita いいね :thumbsup:」や「GitHub Star :star:」をいただけると励みになります。 -->
-
-「GitHub Star :star:」をいただけると励みになります。
+GitHub Star :star: をいただけると励みになります。
 
 
 
-## References
-
-- [Google日本語入力で日本語を英語に変換するための辞書](https://www.p-iris.com/blog/english/google_ime_dictionary/)
-
-[Jump to TOC :small_red_triangle:]
+<div align="right">
+<a href="#table-of-contents">目次へ戻る ☝️</a>
+</div>
 
 
 
@@ -256,6 +260,4 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 [IME和英辞書 - EDICT for MS-IME 2]: http://www.nurs.or.jp/~nagadomi/edictime2/
 
 <!-- Internal References -->
-[Jump to TOC :small_red_triangle:]: #table-of-contents
 [Issue]: https://github.com/peaceiris/google-ime-dictionary/issues
-[Pull Requests]: https://github.com/peaceiris/google-ime-dictionary/pulls
