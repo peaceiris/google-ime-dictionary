@@ -39,6 +39,7 @@
   - [CC BY-SA 3.0](#cc-by-sa-30)
   - [MIT License](#mit-license)
 - [Author](#author)
+- [Maintainer Notes](#maintainer-notes)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -247,6 +248,10 @@ USキーボード向けに、変換トリガーが `@` ではなく `\` であ�
 GitHub Star :star: をいただけると励みになります。
 
 
+
+## Maintainer Notes
+
+GitHub 上で tag だけ指定して Relase を publish すれば残りの作業は Actions がやってくれる。
 
 <div align="right">
 <a href="#table-of-contents">目次へ戻る ☝️</a>
