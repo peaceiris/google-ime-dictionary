@@ -21,5 +21,5 @@ sed -i "1iIME 拡張辞書 ${TAG_NAME}\n" "./${RELEASE_NOTES}"
 cd "${RELEASE_ASSETS_DIR}"
 hub release edit \
     --file "../${RELEASE_NOTES}" \
-    --attach "$(for i in $(echo *); do echo -n "${i}#${i} "; done)" \
+    $(for i in $(echo *); do echo -n "--attach ${i}#${i} "; done) \
     "${TAG_NAME}"
