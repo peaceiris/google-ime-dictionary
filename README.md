@@ -2,7 +2,7 @@
 
 <!-- https://shields.io/ -->
 [![Creative Commons License](https://img.shields.io/badge/license-Creative%20Commons-green.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/peaceiris/google-ime-dictionary/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/peaceiris/google-ime-dictionary/blob/main/LICENSE)
 
 ![sample gif](./images/sample.gif)
 
