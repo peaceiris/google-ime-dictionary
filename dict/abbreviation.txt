@@ -134,6 +134,7 @@ GO	ʕ◔ϖ◔ʔ	名詞
 GPA	Grade Point Average	名詞
 GPL	General Public License	名詞
 GPS	Global Positioning System	名詞
+GPT	Generative Pretrained Transformer	名詞
 GPU	Graphics Processing Unit	名詞
 GUI	Graphical User Interface	名詞
 HDD	Hard Disk Drive	名詞
