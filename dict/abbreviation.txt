@@ -262,6 +262,7 @@ RAID	Redundant Arrays of Inexpensive Disks	名詞
 RAM	Random Access Memory	名詞
 RDB	Relational Database	名詞
 RDBMS	Relational database management system	名詞
+RFC	Request for Comments	名詞
 RL	Reinforcement Learning	名詞
 RN	React Native	名詞
 RNN	Recurrent Neural Network	名詞
