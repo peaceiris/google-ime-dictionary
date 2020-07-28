@@ -24,6 +24,7 @@ BFS	Breadth First Search	名詞
 BGM	background music	名詞
 BIOS	Basic Input/Output System	名詞
 BLE	Bluetooth Low Energy	名詞
+BNN	Binarized Neural Network	名詞
 BSD	Berkeley Software Distribution	名詞
 BT	Bluetooth	名詞
 BTO	Build To Order	名詞
