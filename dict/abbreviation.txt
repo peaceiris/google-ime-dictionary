@@ -185,6 +185,7 @@ KGI	Key Goal Indicator	名詞
 KPI	Key Performance Indicator	名詞
 LAN	Local Area Network	名詞
 LCC	Low Cost Carrier	名詞
+LDA	Latent Dirichlet Allocation	名詞
 LDAP	Lightweight Directory Access Protocol	名詞
 LED	Light Emitting Diode	名詞
 LGTM	Looks good to me	名詞
