@@ -14,8 +14,20 @@ RELEASE_NOTES="release_notes.md"
 mkdir "${RELEASE_ASSETS_DIR}"
 (
   cd ./dict
+
+  # Microsoft IME (Windowns)
   for i in ${RELEASE_ASSETS_SOURCE}; do
-    zip "../${RELEASE_ASSETS_DIR}/${i}.zip" "./${i}.txt"
+    nkf -w16L -Lw "./${i}.txt" > "./${i}.windows.txt"
+  done
+
+  # ATOK for Mac (macOS)
+  sed -e 's/名詞/名詞*/g' ./abbreviation.txt > ./abbreviation.atok-macos.txt
+  nkf --overwrite -w16L ./abbreviation.atok-macos.txt
+  sed -e 's/名詞/名詞*/g' ./day_month.txt > ./day_month.atok-macos.txt
+  nkf --overwrite -w16L ./day_month.atok-macos.txt
+
+  for i in $(echo *.txt); do
+    zip "../${RELEASE_ASSETS_DIR}/${i}.zip" "./${i}"
   done
 )
 
