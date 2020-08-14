@@ -27,7 +27,7 @@ mkdir "${RELEASE_ASSETS_DIR}"
   nkf --overwrite -w16L ./day_month.atok-macos.txt
 
   for i in $(echo *.txt); do
-    zip "../${RELEASE_ASSETS_DIR}/${i}.zip" "./${i%.*}"
+    zip "../${RELEASE_ASSETS_DIR}/${i%.*}.zip" "./${i}"
   done
 )
 
