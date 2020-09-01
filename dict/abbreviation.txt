@@ -123,6 +123,7 @@ GDPR	General Data Protection Regulation	名詞
 GF	girl friend	名詞
 GH	GitHub	名詞
 GHA	GitHub Actions	名詞
+GHCR	GitHub Container Registry	名詞
 GHE	GitHub Enterprise	名詞
 GHES	GitHub Enterprise Server	名詞
 GHP	GitHub Packages	名詞
