@@ -54,6 +54,7 @@ CORS	Cross-Origin Resource Sharing	名詞
 CPC	Cost Per Click	名詞
 CPU	Central Processing Unit	名詞
 CRE	Customer Reliability Engineer	名詞
+CRE	Customer Reliability Engineering	名詞
 CS	Computer Science	名詞
 CSRF	Cross Site Request Forgery	名詞
 CSS	Cascading Style Sheets	名詞
