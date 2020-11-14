@@ -135,6 +135,7 @@ GIF	Graphics Interchange Format	名詞
 GKE	Google Kubernetes Engine	名詞
 GL	GitLab	名詞
 GLP	GitLab Pages	名詞
+GLS	Guided Local Search	名詞
 GNE	Gross National Expenditure	名詞
 GNOME	GNU Network Object Model Environment	名詞
 GNP	Gross National Product	名詞
