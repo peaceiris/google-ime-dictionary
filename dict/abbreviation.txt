@@ -285,6 +285,7 @@ RPA	Robotic Process Automation	名詞
 RPC	remote procedure call	名詞
 RPI	Raspberry Pi	名詞
 S3	Simple Storage Service	名詞
+SA	Simulated Annealing	名詞
 SA	Student Assistant	名詞
 SB	SoftBank	名詞
 SCM	Software Configuration Management	名詞
