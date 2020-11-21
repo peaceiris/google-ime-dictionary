@@ -267,6 +267,7 @@ POS	Point of Sale System	名詞
 POSIX	Portable Operating System Interface for UNIX	名詞
 PPAP	Pen-Pineapple-Apple-Pen	名詞
 PR	Pull Request	名詞
+PR	pull-request	名詞
 PS	PlayStation	名詞
 PS	PostScript	名詞
 PSO	Particle Swarm Optimization	名詞
