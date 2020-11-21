@@ -16,6 +16,7 @@ AST	Abstract Syntax Tree	名詞
 ATA	Advanced Technology Attachment	名詞
 ATM	Automated Teller Machine	名詞
 ATOK	Advanced Technology Of Kana-Kanji Transfer	名詞
+AUC	Area Under a Curve	名詞
 AWL	Academic Word List	名詞
 AWS	Amazon Web Services	名詞
 BCC	Blind Carbon Copy	名詞
