@@ -1,4 +1,5 @@
 AAC	Advanced Audio Coding	名詞
+ACO	ant colony optimization	名詞
 ADSL	Asymmetric Digital Subscriber Line	名詞
 AE	Adversarial Example	名詞
 AES	Advanced Encryption Standard	名詞
