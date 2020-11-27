@@ -260,7 +260,9 @@ PCA	Principal Component Analysis	名詞
 PCR	Polymerase Chain Reaction	名詞
 PCR	polymerase chain reaction	名詞
 PDCA	Plan Do Check Act	名詞
+PDCA	Plan Do Check Adjust	名詞
 PDCA	plan do check act	名詞
+PDCA	plan do check adjust	名詞
 PDF	Portable Document Format	名詞
 PEP	Python Enhancement Proposals	名詞
 PFN	Preferred Networks	名詞
