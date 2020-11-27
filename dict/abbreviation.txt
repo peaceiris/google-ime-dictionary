@@ -257,6 +257,8 @@ OTP	One Time Password	名詞
 PC	Personal Computer	名詞
 PC	Program Counter	名詞
 PCA	Principal Component Analysis	名詞
+PCR	Polymerase Chain Reaction	名詞
+PCR	polymerase chain reaction	名詞
 PDF	Portable Document Format	名詞
 PEP	Python Enhancement Proposals	名詞
 PFN	Preferred Networks	名詞
