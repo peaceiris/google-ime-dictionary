@@ -329,6 +329,8 @@ TF	Term Frequency	名詞
 TF	Transfer learning	名詞
 TIL	Today I learned	名詞
 TLD	Top-Level Domain	名詞
+TLS	Transport Layer Security	名詞
+TLS	transport layer security	名詞
 TOC	Table of Contents	名詞
 TOPIX	Tokyo Stock Price Index	名詞
 TPO	Time, Place, Occasion	名詞
