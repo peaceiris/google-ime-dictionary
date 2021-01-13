@@ -383,6 +383,8 @@ WBC	World Boxing Council	名詞
 WHO	World Health Organization	名詞
 WP	WordPress	名詞
 WSGI	Web Server Gateway Interface	名詞
+WSL	Windows Subsystem For Linux	名詞
+WSL	windows subsystem for linux	名詞
 WTO	World Trade Organization	名詞
 WWW	World Wide Web	名詞
 XSS	Cross Site Scripting	名詞
