@@ -238,6 +238,8 @@ NATO	North Atlantic Treaty Organization	名詞
 NBA	National Basketball Association	名詞
 NCS	NoCopyrightSounds	名詞
 NDA	Non-disclosure agreement	名詞
+NFT	Non-fungible Token	名詞
+NFT	non-fungible token	名詞
 NGO	Non Governmental Organization	名詞
 NKF	Network Kanji Filter	名詞
 NLP	Natural Language Processing	名詞
